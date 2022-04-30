@@ -1,0 +1,20 @@
+.p1 {color: blue;}
+
+article>p {color:red;}
+
+.main {
+    font-size: 4em; 
+    line-height: 1em;
+    font-style: italic;
+}
+
+.main>h1 {
+    text-align: center;
+    text-shadow:5px 5px blue;
+    color: crimson;
+}
+
+body {font-family:'Roboto', sans-serif;}
+
+nav {display: inline; background-color: aliceblue; justify-self:center;}
+
